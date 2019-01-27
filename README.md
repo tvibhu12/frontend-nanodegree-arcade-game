@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Instructions](#instructions)
+- [Run](#run)
 
 ## Introduction
 
